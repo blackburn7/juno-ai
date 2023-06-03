@@ -1,0 +1,2 @@
+# juno-ai
+OCR application
